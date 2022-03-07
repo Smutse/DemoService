@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kVLJ//x5vtuLnXM5Xs8qZ2NRpUSGMLRLuntidAZhhbI=",
+  "Source": "EnsekMeterReadingsService",
+  "BasePath": "_content/EnsekMeterReadingsService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
